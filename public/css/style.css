@@ -1,0 +1,25 @@
+body, html {height: 100%}
+body {
+  background-image: url('/storage/images/forestbridge.jpg');
+  min-height: 100%;
+  background-position: center;
+  background-size: cover;
+}
+
+.cn{
+	text-align: center;
+	font-size:40px;
+	text-shadow: 6px 6px 6px black;
+	color:white;
+	font-family:Arial;
+}
+
+.bx {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  border-color: black
+}
+
+.btnsubmit{
+	background-color:#3b5999;
+	color:#fff;
+}
